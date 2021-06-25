@@ -1,0 +1,39 @@
+# index
+
+## 1.1 时态
+
+|  | 现在 | 过去 | 将来 | 过去将来 |
+| :--- | :--- | :--- | :--- | :--- |
+| 一般 | do/does | did | be going to do | be going to do |
+| 完成 | have/has done | had done | will have done | would have done |
+| 进行 | be doing | be doing | will be doing | would be doing |
+| 完成进行 | have/has been doing | had been doing | will have been doing | would have been doing |
+
+* 疑问词+时表词\(not\)+主语+句剩+动词
+
+what + are + you+going to + do
+
+* 疑问词:
+
+who/whom, what, whose, which, when, where, why, how
+
+why：原因
+
+how：惊讶
+
+how many + 可数名词
+
+how much + 不可数名词
+
+* 以下都是在前面加相应的介词:
+
+with/... whom
+
+with/by/... what
+
+with/by/... whose xx
+
+with/by/through/... which xx
+
+* 无动词的疑问句使用 is/are
+

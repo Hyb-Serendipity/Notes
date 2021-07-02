@@ -36,5 +36,17 @@ apktool.bat d -o outDir 111.apk
 apktool.bat b -o new.apk outDir
 ```
 
-[https://www.tunefab.tw/youtube/download-youtube-to-mp4.html](https://www.tunefab.tw/youtube/download-youtube-to-mp4.html)
+{% embed url="https://huyaohui.com/2019/03/13/geng-gai-android-apk-bao-ming-da-dao-shuang-kai-shen-zhi-duo-kai-de-mu-de/" %}
+
+
+
+
+
+
+
+
+
+{% embed url="https://www.tunefab.tw/youtube/download-youtube-to-mp4.html" %}
+
+
 
